@@ -4,6 +4,6 @@ This repo is a code-along with the first project in the [React Nanodegree progra
 
 Most of the commits in this repository correspond to videos in the program.
 
-## Contributing
-
+## License
 MIT
+
